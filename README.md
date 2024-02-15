@@ -30,6 +30,9 @@ Categories Screen<br />
 ![Categorized Recipes](./8.png)<br />
 Search Screen<br />
 ![Search Screen](./5.png)<br />
+Favorites Screen<br />
+![Adding favorites from right corner](./2.png)<br />
+![Favorites Screen](./7.png)<br />
 
 
 This project developed by [YusufUguz](https://github.com/YusufUguz)<br />
